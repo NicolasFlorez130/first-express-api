@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1689531175088,
+      "tag": "0000_cheerful_grandmaster",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1689535810463,
+      "tag": "0001_icy_tombstone",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1689551443178,
+      "tag": "0002_robust_masked_marvel",
+      "breakpoints": true
+    }
+  ]
+}
